@@ -15,7 +15,6 @@ const Hero = () => {
                 </Suspense>
             </div>
 
-            {/* Overlay Content */}
             <div className="relative z-10 container px-6 pointer-events-none">
                 <div className="max-w-4xl">
                     <h1 className="text-5xl md:text-8xl font-bold font-outfit text-white mb-4 tracking-tighter mix-blend-difference">
