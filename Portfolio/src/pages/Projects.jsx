@@ -43,15 +43,15 @@ function Projects() {
             id: 5,
             title: "Project Five",
             description: "Social media aggregator and analytics platform.",
-            tags: ["Vue.js", "Firebase", "Sass"],
+            tags: ["HTML", "CSS", "JavaScript"],
             link: "#",
-            image: "/social-analytics.png"
+            image: "/science.png"
         },
         {
             id: 6,
             title: "Project Six",
             description: "Mobile-first fitness tracking application.",
-            tags: ["React Native", "Redux", "GraphQL"],
+            tags: ["HTML", "CSS", "JavaScript"],
             link: "#",
             image: "/fitness-tracker.png"
         }
