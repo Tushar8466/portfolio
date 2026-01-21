@@ -9,7 +9,8 @@ function Projects() {
             description: "A stunning web application built with HTML , CSS and JavaScript",
             tags: ["HTML", "CSS", "JavaScript"],
             link: "https://stylerush.vercel.app/",
-            github: "https://github.com/Tushar8466/stylerush"
+            github: "https://github.com/Tushar8466/stylerush",
+            image: "/stylerush.png"
         },
         {
             id: 2,
@@ -17,35 +18,42 @@ function Projects() {
             description: "Website for visualizing architectural wonders from popular architects",
             tags: ["HTML", "CSS", "JavaScript"],
             link: "https://architecture-portfolio-solo-16t6.vercel.app/",
-            github: "https://github.com/Tushar8466/Architecture-Info"
+            github: "https://github.com/Tushar8466/Architecture-Info",
+            image: "/architect-portfolio1.png"
         },
         {
             id: 3,
-            title: "Project Three",
-            description: "E-commerce platform with seamless payment integration.",
-            tags: ["Next.js", "Stripe", "MongoDB"],
-            link: "#"
+            title: "Movie Finder",
+            description: "A web application that allows users to search for movies and get information about them.",
+            tags: ["HTML", "CSS", "JavaScript"],
+            github: "https://github.com/Tushar8466/Movie-Finder",
+            link: "https://movie-finder-delta-ten.vercel.app/",
+            image: "/moviefinder.png"
         },
         {
             id: 4,
-            title: "Project Four",
+            title: "Nasa space app challenge",
             description: "AI-powered content generation tool.",
-            tags: ["OpenAI API", "Python", "Flask"],
-            link: "#"
+            tags: ["HTML", "CSS", "JavaScript"],
+            github: "https://github.com/Tushar8466/Nasa",
+            link: "https://nasa-ivory-ten.vercel.app/",
+            image: "/nasa.png"
         },
         {
             id: 5,
             title: "Project Five",
             description: "Social media aggregator and analytics platform.",
             tags: ["Vue.js", "Firebase", "Sass"],
-            link: "#"
+            link: "#",
+            image: "/social-analytics.png"
         },
         {
             id: 6,
             title: "Project Six",
             description: "Mobile-first fitness tracking application.",
             tags: ["React Native", "Redux", "GraphQL"],
-            link: "#"
+            link: "#",
+            image: "/fitness-tracker.png"
         }
     ];
 
